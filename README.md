@@ -1,5 +1,6 @@
 # Unity Audio Toolkit
 A lightweight and reusable audio toolkit for Unity.
+Made by Maged Atta.
 
 # 1. Introduction
 The Audio Toolkit is a simple audio system for Unity that lets developers set up and manage sounds without having to configure an AudioSource every time they want to play something. It uses SoundCue assets to store audio settings, such as volume, pitch, looping, 2D/3D audio, and mixer groups. These SoundCues can then be added to an AudioBank component and played using a unique identifier.
