@@ -35,7 +35,7 @@ That's it! The AudioBank will create and configure a temporary child GameObject 
 For looping sounds, enable "Loop" on the SoundCue and use Stop("Identifier"); when you want the sound to stop.
 
 # 5. Full Documentation
-For a more detailed explanation of each setting and what you can do with SoundCues, AudioBanks, UnityEvents, and C# methods, looping sounds, and mixer setup, check the full Audio Toolkit Documentation in the files above.
+For a more detailed explanation of each setting and what you can do with SoundCues, AudioBanks, UnityEvents, and C# methods, looping sounds, and mixer setup, check the full Audio Toolkit Documentation (https://github.com/MrCrazyDude115/Unity-Audio-Toolkit/blob/main/Documentation/AudioToolkitDocumentation.pdf)
 
 # 6. Development Status
 This is an early version of the toolkit made mainly for myself and fellow students taking the GAD2010 Technical Design module. It includes the main features needed to manage and play sounds in a Unity project, but I plan to add more functionality and improvements in the future.
